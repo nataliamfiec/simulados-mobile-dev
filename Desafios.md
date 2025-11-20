@@ -13,7 +13,7 @@ Desenvolva um aplicativo que implemente **quatro sistemas de navegação distint
 - **React Navigation**
 - **Hooks** do React para gerenciamento de estado
 
-
+/
 
 ### 2. Módulos de Navegação Requeridos
 

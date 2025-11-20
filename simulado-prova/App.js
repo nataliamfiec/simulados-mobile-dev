@@ -1,6 +1,6 @@
 
 import { NavigationContainer } from "@react-navigation/native";
-import HomeScreen from "./components/HomeScreen";
+import HomeScreen from "./screens/bottom/HomeScreen";
 import TabNavigator from "./components/TabNavigator";
 
 const App = () => {
